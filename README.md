@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 🌱 Actualmente estoy aprendiendo php, python, arquitectura de software y a ser mejor persona.
 - 👯 Busco colaborar en software de código abierto.
 - 💬 Pregúntame sobre *php*, *symfony*, *python*
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=afcanop)](https://github.com/ryo-ma/github-profile-trophy)
